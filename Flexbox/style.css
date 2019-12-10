@@ -1,0 +1,71 @@
+.banner{
+	background-image: url("background-paniers.jpg");
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 719px;
+	background-image: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.banner-content {
+	justify-content: center;
+	text-align: center;
+	text-shadow: 2px 1px white;
+	font-family: 'Georgia', sans-serif;
+	font-size: 30px;
+
+}
+.cards{
+	background-color: #232020; 
+	background-size: cover;
+}
+.cards-content{
+	justify-content: top;
+	text-align: unset;
+	font-family: 'Georgia', sans-serif;
+	font-size: 24px;
+	color: white;
+}
+
+a {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 28px;
+    color: white;
+    text-decoration: none;
+    word-spacing: 1.1em;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    margin: 0px 30px 0px 30px;
+    justify-content: center;
+}
+
+.onglets {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.images {
+	display: flex;
+	justify-content: center;
+}
+.h1{
+	justify-content: center;
+	text-align: center;
+	color: white;
+}
+
+.footer-content {
+	justify-content: center;
+	text-align: center;
+	text-shadow: 2px 1px white;
+	font-family: 'Georgia', sans-serif;
+	font-size: 20px;
+
+}
